@@ -4,7 +4,7 @@
   ihaveaDream Google DSC Team
 
 # Takım Üyelerimiz
- - Şule BOLAT
+ - Şule Zeynep BOLAT
  - Zeynep DİREKLİ
  - Barış DEDE
  - Özgür SARIOĞLAN
