@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41793668424",
+    "firebase_url": "https://ultimate-vigil-292614.firebaseio.com",
+    "project_id": "ultimate-vigil-292614",
+    "storage_bucket": "ultimate-vigil-292614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41793668424:android:25e729ce3c446178d21f7d",
+        "android_client_info": {
+          "package_name": "com.example.dirtypaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41793668424-nmkv1iq21lmbk6b278iimfdsc2jmj40m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbuPY1U9DCTSwPOIbcXmk-sy_DY8xxeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41793668424-nmkv1iq21lmbk6b278iimfdsc2jmj40m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
