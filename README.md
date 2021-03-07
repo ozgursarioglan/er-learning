@@ -1,7 +1,7 @@
 ![](https://www.dscsdmc.org/img/logo.png)
 
 # ER Learning
-  ihaveaDream Google DSC Team
+  ihaveaDream Google DSC Hack People and Peace Hacktahonu kapsamında geliştirilmiş projedir.
 
 # Takım Üyelerimiz
  - Şule Zeynep PARLAT
